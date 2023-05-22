@@ -1,0 +1,57 @@
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.csproj.AssemblyReference.cache
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.AssemblyInfoInputs.cache
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.AssemblyInfo.cs
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.csproj.CoreCompileInputs.cache
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\mina projekt.exe
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\mina projekt.deps.json
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\mina projekt.runtimeconfig.json
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\mina projekt.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\mina projekt.pdb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.csproj.CopyComplete
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.dll
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\refint\mina projekt.dll
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.pdb
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\mina projekt.genruntimeconfig.cache
+C:\Users\elha05002\Desktop\mina projekt\obj\Debug\net6.0-windows\ref\mina projekt.dll
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\ptemp.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\Nyckel.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\p2.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\p1.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\bakgrundprototyp.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\font.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\drake.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\fireball[1].xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\nykkel.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\fjäder.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\level3.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\level4.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\levelt.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\svampen.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\leveltre.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\dryck.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\svärden.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\Medieval castle (1).xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\slutdel.xnb
+C:\Users\elha05002\Desktop\mina projekt\bin\Debug\net6.0-windows\Content\start.xnb
